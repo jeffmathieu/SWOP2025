@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.tablr"},{"l":"com.tablr.area"},{"l":"com.tablr.controller"},{"l":"com.tablr.model"},{"l":"com.tablr.subwindow"},{"l":"com.tablr.undoRedo"},{"l":"com.tablr.view"},{"l":"usecases"}];updateSearchResults();
